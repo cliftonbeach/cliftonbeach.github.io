@@ -1,2 +1,0 @@
-# cliftonbeach.github.io
-camera
