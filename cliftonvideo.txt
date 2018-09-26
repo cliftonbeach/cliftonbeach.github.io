@@ -1,2 +1,0 @@
-<iframe src="http://103.251.175.54:8080/player.html" name="restreamer-player" width="800" height="250" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true"></iframe>
-
